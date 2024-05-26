@@ -66,7 +66,7 @@ The dataset includes responses to the above questions, providing a comprehensive
 
 ### How to Use This Dataset
 
-1. **Download the dataset**: [Link to the dataset]
+1. **Download the dataset**: [[Link of dataset](https://github.com/MTalhaZafar32/My-Dataset/blob/main/Student-Responces.csv)]
 2. **Explore the data**: Use your preferred data analysis tools to explore and analyze the responses.
 3. **Contribute**: If you have insights or additional data, feel free to contribute to this repository by submitting a pull request.
 
